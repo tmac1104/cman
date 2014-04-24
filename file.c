@@ -2,5 +2,5 @@
 #include <string.h>
 int main(int args,char ** agv)
 {
-	printf("Hello world!\n");
+	printf("Hello world!!\n");
 }
